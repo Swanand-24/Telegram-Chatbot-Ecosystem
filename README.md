@@ -1,5 +1,8 @@
 # 🧠 Vyapar Saathi – SHG Digital Commerce Telegram Ecosystem
 
+![Logo](assets/logo_busi_1.jpg)
+
+
 ## 🌍 Empowering SHGs through Digital Innovation
 
 Vyapar Saathi is an AI-powered multilingual Telegram chatbot ecosystem designed to help Self Help Group (SHG) businesses sell products digitally without needing apps, websites, or technical knowledge.
