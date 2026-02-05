@@ -189,7 +189,7 @@ The project was recognized and certified by **Dr. Preeti Adani, Chairperson – 
 ## 👨‍💻 Developed By
 
 * Swanand Wirkar @Swanand-24
-* Nikhil Fuke
-* Jahanvi Mishra
-* Shalini Singh
+* Nikhil Fuke https://github.com/nikhilfuke1
+* Jahanvi Mishra https://github.com/JahanviM82
+* Shalini Singh https://github.com/shalinisingh26
 * Jyot Buch
